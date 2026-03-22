@@ -1,0 +1,5 @@
+print("hello world")
+print("my name is saliq")
+print("i read in class 9")
+print("my favourite food is salmon")
+print("i like to discover new things")
